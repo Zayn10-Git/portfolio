@@ -1,6 +1,7 @@
 body {
   background-color: grey;
   font-family: Times New Roman;
+  
 }
 h1 {
   color: Blue;
@@ -11,4 +12,9 @@ h2 {
 }
 p {
   font-size: 18px;
+}
+section {
+  background-color: green;
+  margin: 20px;
+  padding: 18px;
 }
