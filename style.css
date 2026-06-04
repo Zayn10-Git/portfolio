@@ -1,51 +1,14 @@
 body {
-    margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f4f6f8;
-    color: #333;
+  background-color: grey;
+  font-family: Times New Roman;
 }
-
-/* Header */
-header {
-    background: linear-gradient(135deg, #0d6efd, #6f42c1);
-    color: white;
-    text-align: center;
-    padding: 40px 20px;
+h1 {
+  color: Blue;
+  text-align: center;
 }
-
-header h1 {
-    margin: 0;
-    font-size: 40px;
-}
-
-header p {
-    margin-top: 10px;
-    font-size: 18px;
-    opacity: 0.9;
-}
-
-/* Container */
-.container {
-    max-width: 900px;
-    margin: auto;
-    padding: 20px;
-}
-
-/* Cards */
-.card {
-    background: white;
-    padding: 20px;
-    margin-top: 20px;
-    border-radius: 12px;
-    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
-    transition: 0.3s;
-}
-
-.card:hover {
-    transform: translateY(-5px);
-}
-
-/* Text */
 h2 {
-    color: #0d6efd;
+  color: Red;
+}
+p {
+  font-size: 18px;
 }
